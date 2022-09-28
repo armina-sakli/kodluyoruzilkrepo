@@ -8,9 +8,9 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 Öncelikle projemizi klonlayalım.
 
-'''
+
 https://github.com/armina-sakli/kodluyoruzilkrepo.git
-'''
+
 
 ## Usage
 
