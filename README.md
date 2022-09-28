@@ -18,7 +18,7 @@ Projeyi cloneladiktan sonra Visual Studio Code programinda acalim.
 
 Linux icin;
 
-'''
+'''python
 cd kodluyoruzilkrepo
 code .
 '''
