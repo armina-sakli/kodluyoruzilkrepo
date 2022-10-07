@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google</title>
+    <style>
+        .search {
+            padding: 10px;
+            /* margin: 25px; */
+            margin-bottom: 0;
+            background-color: rgb(233, 233, 233);
+        }
+        ul {
+            list-style-type: none;
+        }
+        #card {
+            background-color: rgba(88, 236, 236, 0.726);
+        }
+        #nav {
+            background-color: rgb(93, 214, 214);
+        }
+        #mail {
+            background-color: rgb(55, 175, 175);
+        }
+        .box {
+            width: 400px;
+            height: 150px;
+            margin: 2px;
+            
+            /* margin-left: 25px; */
+        }
+        #card, #nav, #mail {
+           text-align: center; 
+           padding: 10px;
+           float: left;
+           margin-top: 0;
+        }
+        .form, .logo, .btn {
+            text-align: center;
+        }
+        .footer {
+            text-align: center;
+            clear: both;
+        }
+        
+    </style>
+</head>
+<body>
+
+                    <!-- logo -->
+    <div class="logo">
+        <img src="https://web.archive.org/web/19990504112211im_/http://www.google.com/google.jpg" alt="google-logo">
+    </div>
+
+
+                        <!-- search -->
+    <div class="search">
+                    <!-- form -->
+        <div class="form">
+            <form action="">
+                <label for="write">Search the web using Google!</label> <br>
+                <input type="text" id="write" name="write">
+            </form>
+        </div>
+
+                    <!-- button -->
+        <div class="btn">
+            <button type="button">Google Search</button>
+            <button type="button">I'm felling lucky</button>
+        </div>
+    </div>
+
+                    <!-- container -->
+    <div class="container">
+                    <!-- card -->
+        <div class="box" id="card">
+            <ul>
+                <li>Special Searches</li>
+                <li><a href="#">Stanford Search</a></li>
+                <li><a href="#">Linux Search</a></li>
+            </ul>
+        </div>
+                    <!-- nav -->
+        <div class="box" id="nav">
+            <ul>
+                <li><a href="#">Help!</a></li>
+                <li><a href="https://tr.wikipedia.org/wiki/Google">About Google</a></li>
+                <li><a href="#">Company Info</a></li>
+                <li><a href="#">Google! Logos</a></li>
+            </ul>
+        </div>
+                    <!-- mail -->
+        <div class="box" id="mail">
+            <p>Get Google!</p>
+            <p>updates monthly:</p>
+            <input type="text" id="email" name="email" placeholder="your e-mail"> <br>
+            <button type="button">Subscribe</button>
+            <a href="https://web.archive.org/">Archive</a>
+        </div>
+    </div>
+
+
+                        <!-- footer -->
+    <div class="footer">
+        <footer>Copyright Ⓒ1998 Google Inc.</footer>
+    </div>
+    
+</body>
+</html>
