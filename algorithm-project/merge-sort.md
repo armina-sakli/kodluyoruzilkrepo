@@ -4,3 +4,5 @@
 * Bir listeyi her adımda parçaya ayırıp tek eleman kalıncaya kadar bölüyor. Böldükten sonra sıralı bir şekilde bize sunuyor.
 2. *Big-O gösterimini yazınız.*
 * 2^x=n olduğundan O(logn) şeklinde gösterilir.
+
+Kaynak [Patika.dev](https.//www.patika.dev/)
