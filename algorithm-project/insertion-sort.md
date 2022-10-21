@@ -24,3 +24,5 @@
 * **2.adım:** 7 ve 3'ü karşılaştırır ve hangisinin küçük olduğuna bakılır. 3, 7'den küçük ise 3, 7'nin yerine yazılır ve 7'de 3'ün yerine yazılır.
 * **3.adım:** Şimdi sıralama **[3,7,5,8,2,9,4,15,6]** böyle oldu. Şimdi 7 ile 5 arasına bakılır. 5, 7'den küçük olduğu için 5, 7'nin yerine yazılır.
 * **4.adım:** Yeni sıralama **[3,5,7,8,2,9,4,15,6]** oldu. Sırada 7 ile 8 arasındaki sayı bakılır. 7'i zaten 8'den küçük olduğu için yerine karışmaz diğer sayıya geçer.
+
+Kaynak [https://www.patika.dev/](Patika.dev)
